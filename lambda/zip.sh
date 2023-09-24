@@ -1,0 +1,1 @@
+rm -f lambda.zip && zip -r lambda.zip index.mjs node_modules
